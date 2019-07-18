@@ -9,7 +9,7 @@
 
 What To Do | Completed
 --- | ---
-Tutorial https://github.com/mjhea0/flaskr-tdd  |  
+Tutorial https://github.com/mjhea0/flaskr-tdd  |  ![check](https://i.imgur.com/84fRg7x.png)
 Flask Setup  |  
 Vue Setup  |  
 User Login and Storage |  
